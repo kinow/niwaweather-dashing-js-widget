@@ -1,6 +1,6 @@
 ## Description
 
-[Dashing-js](http://fabiocaseri.github.com/dashing-js) widget to display weather from [NIWA Weather](http://weather.niwa.data) using [Climacons Font](http://adamwhitcroft.com/climacons/font/). Also the background of the widget automatically changes to the current temperature outside.
+[Dashing-js](https://github.com/fabiocaseri) widget to display weather from [NIWA Weather](http://weather.niwa.co.nz) using [Climacons Font](http://adamwhitcroft.com/climacons/font/). Also the background of the widget automatically changes to the current temperature outside.
 
 Ported from [@danillotuhumury's work](https://github.com/danillotuhumury/klimato-dashing-widget) and [@fabiocaseri's work](https://github.com/fabiocaseri/klimato-dashing-js-widget)
 

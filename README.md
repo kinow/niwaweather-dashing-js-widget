@@ -26,3 +26,4 @@ Adjust the widget to your desired location by editing the location in the jobs f
 
 ##Preview
 
+![preview](preview.png)

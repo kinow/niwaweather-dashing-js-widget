@@ -117,7 +117,7 @@ function fetchWeather() {
   });
 }
 
-setInterval(fetchWeather, 10 * 1000);
+setInterval(fetchWeather, 15 * 60 * 1000);
 fetchWeather();
 
 

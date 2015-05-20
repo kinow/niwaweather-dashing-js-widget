@@ -6,9 +6,7 @@ class Dashing.Niwaweather extends Dashing.Widget
   setBackgroundClassBy: (temperature, format) ->
     @removeBackgroundClass()
 
-    console.log 'Calculating color'
     colorLevel = @findColorLevelBy temperature, format
-    console.log colorLevel
     $(@node).addClass "niwaweather-temperature-#{colorLevel}"
 
   removeBackgroundClass: ->

@@ -22,7 +22,7 @@ To include the widget into your dashboard add the following code:
 
 ##Settings
 
-Adjust the widget to your desired location by editing the location in the jobs file. (You can lookup your Location here: http://weather.niwa.co.nz)
+Adjust the widget to your desired location by editing the location in the jobs file. (You can lookup your location here: http://weather.niwa.co.nz)
 
 ##Preview
 

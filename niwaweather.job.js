@@ -90,7 +90,7 @@ function fetchWeather() {
         				utc: result.utc,
         				wind_speed: result.wind_speed,
         				wind_from_direction: result.wind_from_direction,
-        				temperature: Math.ceil(result.air_temperature),
+        				temperature: Math.round(result.air_temperature),
         				relative_humidity: result.relative_humidity,
         				cloud_cover: result.cloud_cover,
         				precipitation_amount: result.precipitation_amount,
